@@ -1,0 +1,11 @@
+pytube
+yt-dlp
+openai-whisper
+torch
+numpy
+pandas
+pydub
+ffmpeg-python
+langchain
+tqdm
+
