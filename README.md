@@ -21,6 +21,20 @@ Selecting 2. will allow the user to add a note under that specific video for fut
 Selecting 3. will allow the user to view previous notes that they have made.
 Selecting 4. will allow the user to ses previous questions it has asked the AI and see the AI responses.
 
+# Technologies
+pytube
+yt-dlp
+openai-whisper
+torch
+numpy
+pandas
+pydub
+ffmpeg-python
+langchain
+tqdm
+ollama
+JSON
+
 
 # How it works (only mentioning src)
 
